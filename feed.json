@@ -5,7 +5,7 @@
     "home_page_url": "https://umatibank.com",
     "feed_url": "https://umatibank.com/feed.json",
     "user_comment": "",
-    "icon": "https://umatibank.com/media/website/umati3_ver1.png",
+    "icon": "https://umatibank.com/media/website/umatis_color1.svg",
     "author": {
         "name": "Ǥœg Willson"
     },
@@ -58,14 +58,14 @@
             "url": "https://umatibank.com/partners/index.html",
             "title": "Partners",
             "summary": "Table Banking Groups Art at Heart Self Help Group , Njiru, NAirobi County, Kenya Mamawatoto Eco School , Konza, Machakos County, Kenya ",
-            "content_html": "<p><strong>Table Banking Groups</strong></p>\n<p>Art at Heart Self Help Group , Njiru, NAirobi County, Kenya</p>\n<p>Mamawatoto Eco School , Konza, Machakos County, Kenya</p>\n<p> </p>",
+            "content_html": "<p><strong>Table Banking Groups</strong></p>\n<p> </p>\n<p>Art at Heart Self Help Group , Njiru, NAirobi County, Kenya</p>\n<p>Mamawatoto Eco School , Konza, Machakos County, Kenya</p>\n<p> </p>",
             "author": {
                 "name": "Ǥœg Willson"
             },
             "tags": [
             ],
             "date_published": "2019-11-12T11:40:19-05:00",
-            "date_modified": "2019-11-12T11:40:51-05:00"
+            "date_modified": "2019-12-13T09:42:17-05:00"
         },
         {
             "id": "https://umatibank.com/blog/index.html",
